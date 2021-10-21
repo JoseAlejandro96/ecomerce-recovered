@@ -7,7 +7,8 @@ import { FilterProvider } from './context/filter_context'
 import { CartProvider } from './context/cart_context'
 import { UserProvider } from './context/user_context'
 import { Auth0Provider } from '@auth0/auth0-react'
-
+// dev-il-303kv.us.auth0.com
+// U2yFChNWeJnBNGIPRc7SWfTFVVneIFPd
 ReactDOM.render(
     <ProductsProvider>
         <FilterProvider>
